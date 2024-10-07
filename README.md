@@ -5,11 +5,11 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial provides a overview of the post-installation configuration process for the open-source help desk ticketing system. In this phase, we will take the system from its initial setup to a fully operational help desk system, ready for handling real-world support tickets.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Cloud Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -19,11 +19,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Roles(Roles assigned to different Agents such as Admins, Support staff to manage permissions & access)
+- Departments(Ticket Visibility. Different departments based on the type of request on the ticket)
+- Teams(Different teams to handle certain types of tickets based on serverity & type of request)
+- Agents(workers)  Agents who will act as Support Staff employees 
+- Users(Customers) End users who will act as people/employees needing help with their request.
+- SLA (Policies that gauge severity of the request and time it needs to be resolved.
+- Help Topics
 
 <h2>Configuration Steps</h2>
 
