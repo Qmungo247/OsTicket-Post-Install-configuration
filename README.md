@@ -25,7 +25,12 @@ This tutorial provides a overview of the post-installation configuration process
 - Agents(workers)  Agents who will act as Support Staff employees 
 - Users(Customers) End users who will act as people/employees needing help with their request.
 - SLA (Policies that gauge severity of the request and time it needs to be resolved.
-- Help Topics
+- Help Topics (Agents Gauge to type of request it is & Impact to the business. Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
+Password Reset,
+Other.
+
 
 <h2>Configuration Steps</h2>
 
