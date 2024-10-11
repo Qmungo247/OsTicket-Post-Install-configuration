@@ -136,7 +136,7 @@ Set a password for both. (Uncheck "send the agent a password reset email")
 
 Configure 2 Users in agent panel (customers)
 
-Agent Panel -> Users -> Add New
+[Agent Panel > Users > Add New]
 
 Karen
 Ken
