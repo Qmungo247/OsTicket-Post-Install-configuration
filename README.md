@@ -65,9 +65,84 @@ Go back to roles tab. Click "add new role" on the right side & create a "Supreme
 ![Screenshot 2024-10-11 144326](https://github.com/user-attachments/assets/db6a08b6-0ae1-426e-9623-6decefdbcd5c)
 
 ![Screenshot 2024-10-11 145050](https://github.com/user-attachments/assets/678980c4-faf8-4b78-b90f-6f7091133d11)
+
+![Screenshot 2024-10-11 145958](https://github.com/user-attachments/assets/1de69b8f-82ff-4566-a3e7-7c53ff75ea67)
+
 </p>
 <p>
 Configure Departments (Ticket Visibilty, Help Desk vs SysAdmins, vs Networking).[Admin Panel > Agents > Departments] 
 Add new department named "SYS ADMINS" with parent as Top Level Department. Hit Create Dept at the bottom.
 </p>
 <br />
+
+<p>
+
+![Screenshot 2024-10-11 150430](https://github.com/user-attachments/assets/2bcca3d1-2814-48bd-8566-0c9b09f9505c)
+
+![Screenshot 2024-10-11 150450](https://github.com/user-attachments/assets/a8be33aa-056f-4688-bee7-7d7065fa67c2)
+
+</p>
+<p>
+
+Configure Teams (Pull agents from different departments). Add new Team with the name "online banking" then hit create at the bottom.
+
+</p>
+<br />
+
+<p>
+
+![Screenshot 2024-10-11 151958](https://github.com/user-attachments/assets/1b33d0bb-7ed1-436f-b1f7-e88f7963d79b)
+
+</p>
+<br />
+
+<p>
+
+Allow anyone to create tickets
+Admin Panel > Settings > User Settings (UNCHECK: unregistered users can create tickets)
+Registration Required: Require registration and login to create tickets 
+
+</p>
+<br />
+
+<p>
+
+![Screenshot 2024-10-11 153309](https://github.com/user-attachments/assets/9ab338e6-2b51-4378-95f4-b0e1083bb4e2)
+
+![Screenshot 2024-10-11 153401](https://github.com/user-attachments/assets/2eb21ecb-9009-41d5-ada5-891c66615554)
+
+![Screenshot 2024-10-11 153423](https://github.com/user-attachments/assets/be1984e0-f87f-4c41-8270-60e60b464fe2)
+
+Configure Agents (Support workers)
+[Admin Panel > Agents > Add New]
+
+
+JaneDoe (Dept: SysAdmins)(Role: Supreme admin) (Team: Online Banking) hit create
+
+Create another Support Worker
+JohnDoe (Dept: Support)(Role: View Only) hit create 
+
+Set a password for both. (Uncheck "send the agent a password reset email")
+
+</p>
+<br />
+
+<p>
+
+![Screenshot 2024-10-11 155409](https://github.com/user-attachments/assets/e8e26831-53f7-4afb-b8bb-a925b958e602)
+
+
+![Screenshot 2024-10-11 155547](https://github.com/user-attachments/assets/d7ef8243-ef25-4378-87fa-251e96c740a3)
+
+Configure 2 Users in agent panel (customers)
+
+Agent Panel -> Users -> Add New
+
+Karen
+Ken
+
+
+
+
+
+
