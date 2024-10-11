@@ -5,7 +5,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial provides a overview of the post-installation configuration process for the open-source help desk ticketing system. In this phase, we will take the system from its initial setup to a fully operational help desk system by making artificial IT support staff along with different roles & departments, Customers Acting as if the need support with an issue. Ready for handling real-world support tickets.<br />
+This tutorial provides a overview of the post-installation configuration process for the open-source help desk ticketing system. In this phase, we will take the system from its initial setup to a fully operational help desk system by making artificial IT support staff along with different roles & departments, Customers. Along with SLA (Service level agreements) help topics, and users. Ready for handling real-world support tickets.<br />
 
 <h2>Environments and Technologies Used</h2>
 
