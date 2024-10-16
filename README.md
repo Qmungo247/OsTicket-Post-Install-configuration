@@ -138,8 +138,49 @@ Configure 2 Users in agent panel (customers)
 
 [Agent Panel > Users > Add New]
 
-Karen
+Karen &
 Ken
+
+</p>
+<br />
+
+<p>
+
+![Screenshot 2024-10-16 113445](https://github.com/user-attachments/assets/543525e6-64dd-4e94-a0fc-598be0278e30)
+
+![Screenshot 2024-10-16 113643](https://github.com/user-attachments/assets/09492cd1-16b8-49f6-8a89-1469d1405bd2)
+
+![Screenshot 2024-10-16 115727](https://github.com/user-attachments/assets/3ce80d3c-b41b-480c-96d8-ff05b7fad001)
+
+Configure SLA's (Service Level Agreement)
+
+Admin Panel -> Manage -> SLA
+
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+
+Sev-C (Grace Period: 8 hours, Business Hours)
+
+![Screenshot 2024-10-16 120010](https://github.com/user-attachments/assets/7aec39c5-c5d8-4ffa-acd5-72f2923417a0)
+
+![Screenshot 2024-10-16 120327](https://github.com/user-attachments/assets/240a2f6e-d052-4bed-9c5e-b549a0a48fcf)
+
+Configure Help Topics (For when users create a ticket)
+
+Admin Panel -> Manage -> Help Topics
+
+Business Critical Outage
+
+Personal Computer Issues
+
+Equipment Request
+
+Password Reset
+
+Other
+
+
 
 
 
